@@ -1,2 +1,3 @@
 Utilisateur bis
 utilisateur original
+ligne 2 original
