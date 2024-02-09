@@ -2,3 +2,4 @@ Utilisateur bis
 utilisateur original
 ligne 2 original
 Utilisateur original conflit
+Ligne originale
