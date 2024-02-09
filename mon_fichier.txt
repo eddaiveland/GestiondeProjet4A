@@ -3,3 +3,4 @@ utilisateur original
 ligne 2 original
 Utilisateur original conflit
 Ligne originale
+Une ligne sur une autre branche
