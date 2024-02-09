@@ -4,3 +4,4 @@ ligne 2 original
 Utilisateur original conflit
 Ligne originale
 ligne merge origin
+Une ligne sur une autre branche
